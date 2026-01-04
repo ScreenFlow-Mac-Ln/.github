@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://www.telestream.net/pdfs/app-icons/ScreenFlow-icon.png" width="200" alt="ScreenFlow macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/ScreenFlow">
+ <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/5d/3c/975d3c65-8db4-7a08-37fe-a0c975d74863/ScreenFlow10.png/1200x630bb.png" width="200" alt="ScreenFlow macOS application icon"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/ScreenFlow">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open ScreenFlow macOS page">
  </a><br><br>
  <div align="center">
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://www.telestream.net/screenflow/images/screenflow-10-editing.jpg" width="500" alt="ScreenFlow interface showing main workspace">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjwEGwPEbKfHIfPTdQmt-fCujCCtcZSsTVw&s" width="500" alt="ScreenFlow interface showing main workspace">
  </td>
  </tr>
  </table>
